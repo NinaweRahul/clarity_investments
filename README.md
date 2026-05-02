@@ -8,6 +8,10 @@ Built for the Goldman Sachs x UT Dallas 2026 Hackathon.
 
 Clarity helps beginner investors understand their portfolios and make confident decisions during market uncertainty. No finance jargon, just clear explanations and actionable recommendations.
 
+## Problem We're Solving
+
+70% of Americans don't invest because finance feels too complex. When they do invest, market drops trigger panic selling. Clarity bridges the gap between "I should invest" and "I understand my investments enough to stay calm during volatility."
+
 ## Features
 
 - **Smart Onboarding**: 3-question flow to build your first portfolio
@@ -18,7 +22,7 @@ Clarity helps beginner investors understand their portfolios and make confident 
 
 ## Live Demo
 
-🚀 **[Try Clarity Live](your-streamlit-url-here)**
+**https://clarityinvestments.streamlit.app**
 
 ## Tech Stack
 
@@ -33,13 +37,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Team
+## Contributor
 
 Built by **Rahul Ninawe** (UT Dallas MBA/MSBA '26)
 
-## Problem We're Solving
-
-70% of Americans don't invest because finance feels too complex. When they do invest, market drops trigger panic selling. Clarity bridges the gap between "I should invest" and "I understand my investments enough to stay calm during volatility."
 
 ## Hackathon Submission
 
